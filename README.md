@@ -20,7 +20,7 @@ conda activate rnpc
 
 ## Dataset Preparation
 
-Download the datasets from [Google Drive – RNPC Datasets](https://drive.google.com/drive/folders/1ocSzGy32O5JrehKweaQQ6dRhQDcSGeJp?usp=sharing), and save them in the root directory of this repository.
+Download the datasets from [Google Drive – RNPC Datasets](https://drive.google.com/drive/folders/1pYwPLDyUYJrGMI89ryHRDTTxff50sHAr?usp=sharing), and save them in the root directory of this repository.
 
 ## Attack preparation
 

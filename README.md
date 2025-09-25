@@ -2,7 +2,7 @@
 
 This repository contains the official implementation of the NeurIPS 2025 paper *"Understanding and Improving Adversarial Robustness of Neural Probabilistic Circuits"*.
 
-![robust_circuit_framework](/Users/weixinc2/Documents/Research/robust_circuit/figures/robust_circuit_framework.png)
+![robust_circuit_framework](./figures/robust_circuit_framework.png)
 
 ## Environment Setup
 

@@ -20,7 +20,7 @@ conda activate rnpc
 
 ## Dataset Preparation
 
-Download the datasets from [Google Drive – RNPC Datasets](https://drive.google.com/drive/folders/1pYwPLDyUYJrGMI89ryHRDTTxff50sHAr?usp=sharing), and save them in the root directory of this repository.
+Download the datasets from [Google Drive – RNPC datasets](https://drive.google.com/drive/folders/1pYwPLDyUYJrGMI89ryHRDTTxff50sHAr?usp=sharing), and save them in the root directory of this repository.
 
 ## Attack preparation
 
@@ -51,6 +51,8 @@ To train the baseline models, run:
 ```
 ./train_reference.bash
 ```
+
+You can also download the checkpoints of these models from [Google Drive – RNPC_checkpoints](https://drive.google.com/drive/folders/1P-ORACRwH_MLw0dVAWx75BXwdE6-_hE0?usp=sharing).
 
 ## Inference
 

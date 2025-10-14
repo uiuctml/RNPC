@@ -68,4 +68,4 @@ cd visat-models/scripts
 
 ## Acknowledgments
 
-This code builds upon the repository of the paper *"Neural Probabilistic Circuits: Enabling Compositional and Interpretable Predictions through Logical Reasoning"*.
+This code builds upon the [repository](https://github.com/uiuctml/npc-models) of the paper [*"Neural Probabilistic Circuits: Enabling Compositional and Interpretable Predictions through Logical Reasoning"*](https://arxiv.org/abs/2501.07021).
